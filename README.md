@@ -1,4 +1,3 @@
-```markdown
 <img src="Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="400">
 
 # Ghidra 軟體逆向工程框架
